@@ -1,0 +1,70 @@
+.dropdown-item{
+    color: violet;
+    }
+
+article{
+font-weight: normal;
+}    
+.dropdown-menu{
+    background-color: grey;
+}
+
+.navbar-brand{
+    font-weight: lighter;
+    color: dimgray;
+    font-size: 20px;
+}
+
+h2{ color: violet ;
+    text-align: center;
+    margin: 30px;
+    font-style: oblique;
+    font-weight: lighter;
+}
+
+
+h6{
+    color: white;
+    font-weight: lighter;
+}
+
+nav{
+   background-color:  #1B1A1D;
+   
+}
+    
+    .col-xs-10{
+    margin: 10px;
+    }
+    
+    .row img{
+    width: 80%;
+    margin: 5px;
+    }
+
+    footer{
+        font-weight: lighter;
+        color: white; 
+        text-align: center;
+        /*padding: 30px 0;*/
+        width: 100%;
+        height: auto;
+       
+    }
+
+    h3
+        { color: violet ;
+   
+            font-weight: lighter;
+            
+        }
+        hr{
+            width:50%; height:0.1px; background: lightgray;
+          
+        }
+
+    
+    section{
+        height: auto;
+    }
+    

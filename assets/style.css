@@ -1,0 +1,128 @@
+
+body{
+    height:100vh;
+}
+
+.cont-content{ 
+    min-height: 615px;
+
+
+}
+.dropdown-item{
+    color: violet;
+    }
+
+    
+.dropdown-menu{
+    background-color: grey;
+}
+
+.navbar-brand{
+    font-weight: lighter;
+    color: dimgray;
+    font-size: 20px;
+}
+
+nav{
+   background-color:  #1B1A1D;
+   
+}
+
+
+h2{ color: violet ;
+    text-align: center;
+    margin: 30px;
+    font-style: oblique;
+    font-weight: lighter;
+}
+
+.col-xs-12 img{
+    margin: 0 20px;
+    
+}
+
+.col-xs-12 i{
+    color: mintcream;
+    margin: 30px 100px;
+}
+
+.col-xs-12 i:hover {
+    opacity: 0.5
+}
+
+p {
+color: snow;
+font-weight: lighter;
+}
+
+footer{
+    font-weight: lighter;
+    color: white; 
+    text-align: center;
+    /*padding: 30px 0;*/
+   /* width: 100%;
+    height: auto;
+   */
+}
+
+h5{
+    
+    word-spacing: 5px;
+    font-weight: lighter;
+}
+
+hr{
+    width:50%; height:0.1px; background: lightgray;
+  
+}
+
+section{
+    position: relative;
+}
+
+.container{
+    background-color:#EAEAEA;
+    width:40%;
+    position: absolute;
+    top: 80px;
+    left: 40px;
+}
+
+.container h1{
+    
+    font-weight: normal;
+ }
+
+ h4{ color: violet ;
+   
+    font-weight: lighter;
+    
+}
+.portf-hr{
+    width:20%; height:0.1px; background: lightgray;
+    margin-left: 2px;
+
+}
+
+
+
+/*.col-xs-10{
+    margin: 10px;
+    }
+    
+    .col-sm-10 img{
+    width:100%;
+    margin: 5px;
+    }*/
+   
+
+
+
+
+
+
+
+
+
+
+
